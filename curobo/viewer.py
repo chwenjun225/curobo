@@ -7,8 +7,7 @@ dependencies and are imported lazily on first use.
 
 Available visualizers:
     - :func:`ViserVisualizer`: Interactive 3D visualization with a web interface.
-    - :func:`UsdWriter`: Offline export of robot trajectories to USD for OpenUSD-compatible
-      viewers (e.g., Isaac Sim, usdview).
+    - :func:`UsdWriter`: Offline export of robot trajectories to USD for OpenUSD-compatible viewers (e.g., Isaac Sim, usdview).
 
 Example (Viser):
     ```python
